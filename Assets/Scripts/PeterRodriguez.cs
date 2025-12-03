@@ -1,6 +1,6 @@
 using UnityEngine;
 
-public class HelloWorld : MonoBehaviour
+public class PeterRodriguez : MonoBehaviour
 {
     void Start()
     {
